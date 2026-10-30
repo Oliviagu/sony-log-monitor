@@ -1,5 +1,7 @@
 # Sony Log Monitor
 
+![Sony Log Monitor showing an S-Log3 live view converted to Rec.709, with exposure controls and the phone-view QR code](docs/screenshot.png)
+
 A macOS field monitor for Sony cameras shooting S-Log. Plug the camera in over USB and see its live view converted to Rec.709, with zebras, false color and a skin-tone band, plus remote exposure control. The same picture is mirrored to your phone over Wi-Fi.
 
 Tested on the **ZV-E10**. It should work with other Sony bodies that [libgphoto2](http://www.gphoto.org/proj/libgphoto2/support.php) supports in PC Remote mode, but they haven't been tested. Reports and PRs are welcome.
